@@ -1,16 +1,7 @@
-# flutter_book_ui
+### Flutter Libraries Utilized
 
-A new Flutter project.
+Here are the Flutter libraries utilized in this project:
 
-## Getting Started
+- **cupertino_icons:** Cupertino Icons provides icons that match the iOS design language, enabling you to make your app look more consistent with the iOS platform.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Instagram Posted](https://www.instagram.com/p/CzHLjbVSBhA/)
